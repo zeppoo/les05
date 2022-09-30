@@ -1,5 +1,5 @@
 # Spaghetti Bolognese  
-![Bord met Spaghetti Bolognese][Spaghetti](https://upload.wikimedia.org/wikipedia/commons/d/d1/Spaghetti_with_Meatballs_%28cropped%29.jpg)
+![Bord met Spaghetti Bolognese](https://upload.wikimedia.org/wikipedia/commons/d/d1/Spaghetti_with_Meatballs_%28cropped%29.jpg)
 
 ## Ingrediënten
  * **1** middelgrote ui
@@ -21,4 +21,3 @@
 3. Kook ondertussen de spaghetti volgens de aanwijzingen op de verpakking.  Verdeel de spaghetti over de borden en schep de saus erover.
 
 Vind het origineel [hier](https://www.ah.nl/allerhande/recept/R-R615118/eenvoudige-spaghetti-bolognese)
-[Spaghetti]: https://upload.wikimedia.org/wikipedia/commons/d/d1/Spaghetti_with_Meatballs_%28cropped%29.jpg
